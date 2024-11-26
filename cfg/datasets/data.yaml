@@ -1,0 +1,11 @@
+# dataset path
+#path: home/zxr/ultralytics/datasets/tinyPerson
+train: /home/zxr/ultralytics/datasets/tinyPerson/images/train
+val: /home/zxr/ultralytics/datasets/tinyPerson/images/val
+test: /home/zxr/ultralytics/datasets/tinyPerson/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['earth_person', 'sea_person']
